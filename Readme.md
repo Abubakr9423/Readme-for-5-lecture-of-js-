@@ -18,7 +18,7 @@ let sinfleQoutes='hello'
 
 third one 
 ```js
-let backticks=`hello ${2+2` // hello 4
+let backticks=`hello ${2+2}` // hello 4
 ```
 
 # method 
@@ -35,13 +35,13 @@ let backticks=`hello ${2+2` // hello 4
 
 # number
 Math
-.floor // if we habe 1.5 it make it 1
-.ceil // if we have 1.5 it make it 2
-.round // if we have 1.4 it make it 1 and if we have 1.5 he make it 2
-.abs //make negative number positive
-.max //find max number
-.min // find min number 
-.pow // if we have a b it make a to the power of a
-.sqrt // it say to us square of number
-.random  // i dont understand 
-.isNaN // i dont understand 
+- .floor // if we habe 1.5 it make it 1
+- .ceil // if we have 1.5 it make it 2
+- .round // if we have 1.4 it make it 1 and if we have 1.5 he   make it 2
+- .abs //make negative number positive
+- .max //find max number
+- .min // find min number 
+- .pow // if we have a b it make a to the power of a
+- .sqrt // it say to us square of number
+- .random  // i dont understand 
+- .isNaN // i dont understand 
